@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of such professors as have known the way of truth, and are turned aside from its holy testimony to save themselves, opened and lamented : with some wholsome warnings and admonitions, tending to restore and turn them again to the Lord, that they may be saved by him, both from the evil of sin and punishment.</title>
+            <author>Whitehead, John, 1630-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65897</idno>
+            <idno type="STC">Wing W1974</idno>
+            <idno type="STC">ESTC R21475</idno>
+            <idno type="EEBO-CITATION">12297045</idno>
+            <idno type="OCLC">ocm 12297045</idno>
+            <idno type="VID">59057</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65897)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59057)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 930:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of such professors as have known the way of truth, and are turned aside from its holy testimony to save themselves, opened and lamented : with some wholsome warnings and admonitions, tending to restore and turn them again to the Lord, that they may be saved by him, both from the evil of sin and punishment.</title>
+                  <author>Whitehead, John, 1630-1696.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+                  <note>Signed: John Whitehead.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Truth --  Religious aspects --  Christianity --  Early works to 1800.</term>
+               <term>Salvation.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:59057:1" rendition="simple:additions"/>
+            <head>The CASE of ſuch PROFESSORS. As have known the WAY of TRUTH, and are turned aſide from its holy <hi>Teſtimony</hi> to ſave Themſelves; OPENED and LAMENTED.</head>
+            <head type="sub">With ſome wholſome <hi>Warnings</hi> and <hi>Admonitions,</hi> tending to reſtore and turn them again to the Lord, that they may be ſaved by Him, both from the Evil of Sin and Puniſhment.</head>
+            <opener>
+               <salute>DEAR HEARTS,</salute>
+            </opener>
+            <p>VVHat <hi>Lamentation</hi> ſhall I take up for you? and wherewith ſhall I ſufficiently Bemoan you, who were viſited in the ſpringing forth of Gods Day, and have clearly ſeen the Way of Truth, and felt ſomewhat of the Power of God, which once made your Hearts Tender, and cauſed the Strong Man to bow himſelf, ſo that you began to be pliable unto God's Will, and did love his Precepts, but now are turn<g ref="char:EOLhyphen"/>ed from the Light, and wandered out of that Way which you know to be true, and have loſt the Feeling of the Power of God, and have your Hearts hardened with the Deceitfulneſs of Sin, and overcharged with the Cares of this Life, and your Wills at liberty like a Bullock unaccuſtomed to the Yoak, running on contrary to that of God in you? I ſay again, What <hi>Lamentation</hi> ſhall I take up for you? ſurely if my Head were Waters, and mine Eye a Fountain of Tears, I could not ſufficiently bemoan you; for I do plainly ſee that Deſtruction and Mi<g ref="char:EOLhyphen"/>ſery is in your way, becauſe the Lord's good Spirit is daily grieved with you, and his Soul takes no pleaſure in you that draw back from the Path of Life and Truth, and thoſe to whom you fly, under whoſe Shadow you ſeek to ſhelter your ſelves, cannot at all deliver themſelvs not you from the Wrath to come, upon all that are Diſobedient to the Goſpel of Chriſt; neither do they at all care for you , though they Flatter with their Lips, yet have they an Eye to ſee that you who are Treacherous to your own Principles, will eaſily become Treacherous to them; ſo that your Condition is exceeding Sad, for in your pre<g ref="char:EOLhyphen"/>ſent State, you are an Abomination to God, to his Saints and Angels, and a Scorn to Fools, and a Hiſſing and Deriſion to the ſubtil Adver<g ref="char:EOLhyphen"/>ſary that hath caught you in his Snare: Therefore conſider your State, and let me a little expoſtulate with you in the name of the God of Heaven.</p>
+            <p>What can be done for a People that he hath not done, and been rea<g ref="char:EOLhyphen"/>dy to do for you? hath not <hi>Line</hi> been upon <hi>Line,</hi> and <hi>Precept</hi> upon <hi>Pre<g ref="char:EOLhyphen"/>cept,</hi> here a <hi>little</hi> and there a <hi>little,</hi> that ye might underſtand and lay it to heart? Have not God's Servants and Prophets been frequently ſent amongſt you, to whom God hath given witneſs by his own Light in your Conſciences? Moreover, hath he not ſmitten you with the Word of his own mouth, and cauſed you to feel and dread his Power? Hath he not alſo come in the Spirit of Meekneſs, and with yearning Bowels of Love beſought you to return when ye began to ſtray from him? Hath he not alſo been ready to forgive your <hi>Treſpaſſes,</hi> and to heal your <hi>Back<g ref="char:EOLhyphen"/>ſlidings,</hi> and can you juſtly charge him and his Servants with Blame if you periſh? Did not he once appear unto you altogether <hi>lovely,</hi> and with him there is no <hi>alteration</hi> nor <hi>ſhadow of changing</hi>? O then conſider what hath blinded your eye, and why do you turn aſide from following him? do you not therein deſpiſe your Birth-right as <hi>Eſau,</hi> and betray the Juſt as <hi>Judas</hi> did? O woe is me for you that have let go Eternal Life, and laid hold on this preſent World, for you have made a miſerable ex<g ref="char:EOLhyphen"/>change; and the Earth that you think to ſave is reſerved unto Fire, and that which pertaineth thereunto, and can delight therein, ſhall be burnt up, and where will you then hide your ſelves, when the Terrours of Death Everlaſting compaſs you about, who (as <hi>Cain</hi>) have Murdered the Juſt, and muſt be Baniſhed from the Preſence of God for ever? And what good will all thoſe earthly Treaſures wherein you have de<g ref="char:EOLhyphen"/>lighted, do you in that day? ſhall not all the Worlds Friendſhip then have an end, and one Tempter to Wickedneſs ſhall curſe another, becauſe they have been the occaſion of their Miſery, out of which Gold cannot redeem, nor all the Worlds Riches, Glory, and Power, ranſom one Soul? Therefore be ye awakened, all you who have not yet Sinned unto Death, but through Diſtruſt, ſlaviſh Fear, or the Luſts of your own Fleſh, are vailed, and do either ſtand ſtill, or are turned away backward, for you may be renewed, unto Repentance, who have any ſence of your out-running, or grievous Sin in back-ſliding, if you be at all ſmitten, and do grieve for the ſame, there is hope concerning you; Therefore <hi>hear the Rod and him that hath appointed it,</hi> and if there remain any bowels of Tenderneſs, or any ſpark of Love to God, if it be but ſo much as makes you in ſecret to ſigh for want of him, then ariſe and come away, linger not in Darkneſs (where Satan hath Do<g ref="char:EOLhyphen"/>minion) any longer, leaſt you wholly murder the Juſt and joyn to Idols, for why ſhould you wander in the blackneſs of the Night, till in the End yourſteps take hold on Hell, out of which there is no Re<g ref="char:EOLhyphen"/>demption? Therefore I ſay again, be ye Awakened, and do not trifle away the precious Time, leaſt the Door of Mercy be quite ſhut againſt you; and take heed of giving any more way to an evil heart of unbelief, which ſaith, the Lord delays his coming, and thinks him ſlack in fulfil<g ref="char:EOLhyphen"/>ling his Promiſes, for that (together with the worldly Wiſdom where<g ref="char:EOLhyphen"/>with the Serpent mixes) is the ground of all Apoſtaſie from the Life, and the principle Chain wherewith Man is held from returning to God, becauſe unbelief hinders from beholding his glorious Power, and from enjoying the moſt precious Treaſures of his Kingdom; and then the worldly Wiſdom not being capable of diſcerning the Inviſible things of God which he hath ordained to our Glory, draws down the mind to ſave ſelf, and lay hold of this preſent World, which ye can in no wiſe pleaſe, and have his Love and Friendſhip, but ye do diſpleaſe God and loſe his Love and Friendſhip: Therefore ſeeing you cannot ſerve God and Mammon, <hi>Come forth and be ye ſeperate from all their Idolatries, Prophaneſs,</hi> and <hi>Will-Worſhip,</hi> and if they purſue you with Reproaches and Perſecutions, look not at them, for ſuch <hi>light Afflicti<g ref="char:EOLhyphen"/>ons are but for a moment, and do work for us, a far more weighty Crown of Glory, which God will certainly give unto all them that be Faithful to the End; But it is a fearful thing to fall into the Hands of the living and long provoked God,</hi> if wilfully you diſobey his Light in your own Conſcien<g ref="char:EOLhyphen"/>ces, and rebelliouſly forſake him, becauſe be hath Power to caſt into Hell, where <hi>the Wicked and all they that forget God, ſhall be tormented per<g ref="char:EOLhyphen"/>petually.</hi>
+            </p>
+            <p>What can I ſay more unto you, but with yearning Bowels of Love, exhort you to ſearch and try your Wayes, -and turn again to the Lord, who would not your Deſtruction, but delights rather to pardon than puniſh you, becauſe he loves you as his Creatures, and as you return to the Lord, when you ſee Briars and Thorns, grievous Wolves and hungry Eagles in your way to devour, be not diſmaid at all, but with purpoſe of heart cleave unto the Lord, who is a conſuming Fire, and he will make your way through them, and you ſhall ſee all vaniſh as a Shadow that ſtands in oppoſition to you in God's Work and Way; For <hi>the end of all things is at hand</hi>; and <hi>the Kingdoms of this World ſhall be<g ref="char:EOLhyphen"/>come the Kingdoms of our God and of his Chriſt</hi>; and <hi>they which have Suf<g ref="char:EOLhyphen"/>fered with him, ſhall Reign with him,</hi> ſaith the Spirit of the Prophet; <hi>but they that have denyed him before men, ſhall be denied by Him at, his appear<g ref="char:EOLhyphen"/>ing in the Glory of his Father, and the holy Angels</hi> with him, to give a <hi>Reward</hi> to every Man as their <hi>Works be</hi>: Therefore conſider, that if you for Earthly things deny the Truth of God, how it will grieve you in that day to ſtand a far off and ſee the Lord's Innocent People (who have not loved their Lives unto Death, but freely given up all, that they might overcome through the Blood of the Lamb, and the Word of their Teſtimony) receive a Kingdom and Crown which fades not away, whilſt you are bereaved of all that wherein you delighted, and are compaſſed about with Terror, and covered with Shame and Con<g ref="char:EOLhyphen"/>tempt, which is the juſt reward of all who deny the Lord that bought them, who have put him to open Shame by diſtruſting his Power, and turning from him in the ſight of his Enemies.</p>
+            <p>Theſe things bearing a weight upon my Spirit, and becauſe I do both deſire to be clear of the Blood of all Men, and do intirely love their Souls; I have in this manner communicated them, becauſe I am a Sufferer in outward Bonds, amongſt the Lord's Valiant and Faithful People, called <hi>Quakers,</hi> who (though we have been Deſpiſed and Reproached by the Wiſe Profeſſors of this Generation, yet) are not of them that draw back to Perdition, but preſs on to the End of our <hi>Race,</hi> wherein I ſay, Follow us as we follow Chriſt.</p>
+            <closer>
+               <dateline>
+                  <hi>Lincoln Caſtle,</hi> 
+                  <date>the 16th. day of the 7th. Month, 1662.</date>
+               </dateline>
+               <signed>John Whitehead.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Wilſon,</hi> at the <hi>Black-ſpread-Eagle</hi> and <hi>Windmil,</hi> in <hi>Martins Le Grand,</hi> 1662.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
